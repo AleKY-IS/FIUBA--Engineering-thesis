@@ -1,3 +1,4 @@
+[//]: # (Image References)
 [thesis]: ./imgs/thesis.png
 
 # Engineering thesis at FIUBA (University of Buenos Aires)
